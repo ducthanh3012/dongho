@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*tất cả nội dung chưas bên trong đều trong cục đó */
+}
+body{
+    background-color: ;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    float: none;
+}
