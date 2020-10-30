@@ -51,6 +51,12 @@ img{
 .a-menu{
     border-left: 1px solid #e7e7e7;
     padding: 10px 30px 0 10px;
+    transition: all 0.3s;
+
+}
+.a-menu:hover{
+    transform: scale(1.1,1.1);
+
 }
 
 .a-menu a{
@@ -69,7 +75,7 @@ img{
     color: #333333;
     text-decoration: underline;
     text-decoration-color: #b29c6e;
-    transform: scale(1.05,1.05);
+    transform: scale(1.1,1.1);
     font-weight: bold;
 }
 
