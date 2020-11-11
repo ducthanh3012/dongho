@@ -3,7 +3,7 @@ function nav(){
         "            <div class=\"row col md-3 col-md-offset-5 logo\">\n" +
         "                <img src=\"imgs/logo-luxury.png\" height=\"150\" width=\"160\"/>\n" +
         "            </div>\n" +
-        "            <div class=\"row center-block col-md-12 menu\">\n" +
+        "            <div class=\"row col-md-12 menu\">\n" +
         "                <div class=\"a-menu pull-left\">\n" +
         "                    <label>\n" +
         "                        <a href=\"#\">\n" +
